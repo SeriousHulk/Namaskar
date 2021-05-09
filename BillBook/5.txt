@@ -1,0 +1,36 @@
+	Welcome to Namaskar Hotel
+Bill Number: 5
+Customer Name: sda 
+Phone Number: 123
+==================================
+Product	  Qty	Rate	Amount
+==================================
+Chicken 65	   1	30 	30
+Paneer Crispy	1	130 	130
+Paneer 65	 1	75 	75
+Paneer Chilly	  1	98 	98
+French Fries	1	149 	150
+Veg Crispy	1	120 	120
+Paneer Butter	   1	45 	45
+Paneer Tikka	   1	150 	150
+Daal	   1	65 	65
+Tandoor Roti	   1	40 	40
+Kulcha	   1	38 	38
+Jowar Roti	   1	70 	70
+Butter Scotch	   1	30 	30
+Brownie	   1	45 	45
+Vanilla	   1	20 	20
+Straberry	   1	40 	40
+Gulab Jamun	   1	20 	20
+Basoondhi	   1	25 	25
+==================================
+Total Items Price:	Rs 1190
+Total Starter Tax:	Rs 168.56
+
+Total Main Course Tax:	Rs 48.96
+
+Total Desserts Tax:	Rs 72.0
+
+Total Amount:	Rs 1479.52
+        PLEASE VISIT AGAIN
+==================================

@@ -1,0 +1,21 @@
+	Welcome to Namaskar Hotel
+Bill Number: 8
+Customer Name: Vishal 
+Phone Number: 825555544
+==================================
+Product	  	Qty	Rate	Amount
+==================================
+Chicken 65		   7	30 	210
+Paneer Crispy		7	130 	910
+Paneer 65		 7	75 	525
+==================================
+Total Items Price:		Rs 1645
+Total Starter Tax:		Rs 460.6
+
+Total Main Course Tax:	Rs 0.0
+
+Total Desserts Tax:		Rs 0.0
+
+Total Amount:		Rs 2105.6
+        PLEASE VISIT AGAIN
+==================================

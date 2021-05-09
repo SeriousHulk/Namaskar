@@ -1,0 +1,21 @@
+	Welcome to Namaskar Hotel
+Bill Number: 4
+Customer Name: vikrant 
+Phone Number: 7020135348
+==================================
+Product	  Qty	Rate	Amount
+==================================
+Paneer Tikka	   1	150 	150
+Daal	   1	65 	65
+Tandoor Roti	   5	40 	200
+==================================
+Total Items Price:	Rs 415
+Total Starter Tax:	Rs 0.0
+
+Total Main Course Tax:	Rs 49.8
+
+Total Desserts Tax:	Rs 0.0
+
+Total Amount:	Rs 464.8
+        PLEASE VISIT AGAIN
+==================================

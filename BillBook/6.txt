@@ -1,0 +1,25 @@
+	Welcome to Namaskar Hotel
+Bill Number: 6
+Customer Name: Rushikesh Sawant 
+Phone Number: 8855242368
+==================================
+Product	  	Qty	Rate	Amount
+==================================
+Paneer Crispy	1	130 	130
+Paneer Chilly	  1	98 	98
+Veg Crispy	1	120 	120
+Daal		   1	65 	65
+Tandoor Roti	   6	40 	240
+Jowar Roti	   2	70 	140
+Basoondhi	   2	25 	50
+==================================
+Total Items Price:		Rs 843
+Total Starter Tax:		Rs 97.44
+
+Total Main Course Tax:	Rs 53.4
+
+Total Desserts Tax:		Rs 20.0
+
+Total Amount:		Rs 1013.84
+        PLEASE VISIT AGAIN
+==================================

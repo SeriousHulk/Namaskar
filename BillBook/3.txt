@@ -1,0 +1,19 @@
+	Welcome to Namaskar Hotel
+Bill Number: 3
+Customer Name: ffy 
+Phone Number: 354356
+==================================
+Product	  Qty	Rate	Amount
+==================================
+Chicken 65	   1	30 	30
+==================================
+Total Items Price:	Rs 30
+Total Starter Tax:	Rs 8.4
+
+Total Main Course Tax:	Rs 0.0
+
+Total Desserts Tax:	Rs 0.0
+
+Total Amount:	Rs 38.4
+        PLEASE VISIT AGAIN
+==================================

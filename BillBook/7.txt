@@ -1,0 +1,36 @@
+	Welcome to Namaskar Hotel
+Bill Number: 7
+Customer Name: Rujeet 
+Phone Number: 3646534684
+==================================
+Product	  	Qty	Rate	Amount
+==================================
+Chicken 65	   2	30 	60
+Paneer Crispy	2	130 	260
+Paneer 65		 2	75 	150
+Paneer Chilly	  2	98 	196
+French Fries	2	149 	300
+Veg Crispy	2	120 	240
+Paneer Butter	   2	45 	90
+Paneer Tikka	   2	150 	300
+Daal		   2	65 	130
+Tandoor Roti	   2	40 	80
+Kulcha		   2	38 	76
+Jowar Roti	   2	70 	140
+Butter Scotch	   2	30 	60
+Brownie		   2	45 	90
+Vanilla		   2	20 	40
+Straberry		   2	40 	80
+Gulab Jamun	   2	20 	40
+Basoondhi	   2	25 	50
+==================================
+Total Items Price:		Rs 2380
+Total Starter Tax:		Rs 337.12
+
+Total Main Course Tax:	Rs 97.92
+
+Total Desserts Tax:		Rs 144.0
+
+Total Amount:		Rs 2959.04
+        PLEASE VISIT AGAIN
+==================================
